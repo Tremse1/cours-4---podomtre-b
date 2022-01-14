@@ -1,5 +1,5 @@
 {
-    "name": "Cours #4 - podomètre B",
+    "name": "Cours #5 - podomètre B avec alarme V1",
     "description": "",
     "dependencies": {
         "core": "*",

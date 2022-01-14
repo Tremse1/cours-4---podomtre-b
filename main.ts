@@ -14,3 +14,6 @@ basic.forever(function () {
         Pas += 1
     }
 })
+basic.forever(function () {
+	
+})
